@@ -1,6 +1,9 @@
 # Coursewares of Database Principles 2012
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4052d88b7b7de62279b0d06b0773c7511557d202
 This repo contains all the coursewares of database principles class in 2012. Every team (in github you are organizations actually) please fork this repo from @ToyhouseChina otherwise we can not guarantee the integrity of your repo.
 
 Also, please always put your topic slides at the right place otherwise I will delete the file or even will not merge for you.
@@ -20,6 +23,9 @@ The online course is here [http://tsinghuatoyhouse.appspot.com](http://tsinghuat
 
 
 
+<<<<<<< HEAD
 =======
 The course is here [>>>](http://tsinghuatoyhouse.appspot.com)
 >>>>>>> parent of dade63e... Modify README.md to explicit some details of repo
+=======
+>>>>>>> 4052d88b7b7de62279b0d06b0773c7511557d202
