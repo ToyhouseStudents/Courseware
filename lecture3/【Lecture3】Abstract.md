@@ -23,6 +23,7 @@ Mapping Cardinality: one to one, one to many, many to one, many to many.
 
 ###Question:
 Can there be more than one relationship between two entity sets? Yes.
+
 What decides the mapping cardinality? Relationship.
 
 ###Draw Entity-Relational Diagram
@@ -32,7 +33,7 @@ Define entity
 Define relationship         
 Allocate attributes         
 ####Draw global ER diagram
-Conflicts:name conflict, attribute conflict
+Conflicts: name conflict, attribute conflict
 
 ##2.What if data change at different moments? [OOM]
 ###Main levels of object-oriented model:
@@ -41,7 +42,6 @@ Object model
 State model
 
 Functional model
-
 
 ##3.How can we create a better database? [Hybrid modeling]
 ###Reasons
@@ -63,15 +63,21 @@ Object relational mapping
 ####Base: OOD 
 ####Four basic ideas:
 Object oriented
+
 Re-usable
+
 Variable with minimal effort
+
 Extendable without change.
+
 ####SOLID principles
 
 ###Design by contract
 Three contracts:
 Pre-condition
+
 post-condition
+
 class invariant
 
 ##5.How to deal with worldwide users? [Accumulative data]
