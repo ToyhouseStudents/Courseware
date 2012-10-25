@@ -1,5 +1,5 @@
 # Abstract of lecture Entity-Relationship Model
-+By Q&A Group 2012.10.24 O(กษ_กษ)O~~
++By Q&A Group 2012.10.24 \(^_^)/
 
 ##1.What should we do to the real world? [ER Model]
 ###Basic consept:	
