@@ -20,8 +20,7 @@ Superkey: one attribute or several groups of attributes to distinct entities.
 Candidate key: a minimal superkey. 
 
 Mapping Cardinality: one to one, one to many, many to one, many to many.
-
-###Question:
+####Question:
 Can there be more than one relationship between two entity sets? Yes.
 
 What decides the mapping cardinality? Relationship.
